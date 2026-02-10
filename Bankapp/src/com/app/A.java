@@ -11,4 +11,7 @@ public class A {
 		
 
 }
+
+	public void withdraw(){
+		
 }	
