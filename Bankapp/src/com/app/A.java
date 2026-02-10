@@ -15,4 +15,6 @@ public class A {
 	public void withdraw(){
 		
 }	
+	public void m4(){
+		
 }
